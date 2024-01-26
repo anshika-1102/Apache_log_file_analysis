@@ -6,8 +6,8 @@ This project focuses on the analysis of Apache log files, extracting valuable in
 3. Visualization: Utilizing data visualization techniques to present key findings. Bar graphs have been specifically employed to illustrate patterns and trends in the log data.
 
 # Technologies Used
-Python: Leveraged Python for log file parsing, data manipulation, and visualization.
-Matplotlib: Employed Matplotlib for creating informative bar graphs.
+1. Python: Leveraged Python for log file parsing, data manipulation, and visualization.
+2. Matplotlib: Employed Matplotlib for creating informative bar graphs.
 
-Future Work
+# Future Work
 Enhanced Analytics: Explore advanced analytics techniques to extract deeper insights from log data.
